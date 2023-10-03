@@ -1,0 +1,27 @@
+.content-about {
+  width: 70%;
+  margin: 10px auto;
+}
+
+.content-about h2 {
+  color: #fff;
+}
+
+.content-about span {
+  width: 30px;
+  background-color: #fc5c00;
+  height: 2px;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.content-about p {
+  margin: 10px 0;
+  text-align: justify;
+  color: #a3abb2;
+}
+
+.content-about ul {
+  color: #a3abb2;
+  margin-left: 40px;
+}

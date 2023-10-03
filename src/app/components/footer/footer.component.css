@@ -1,0 +1,35 @@
+.content-footer {
+  width: 70%;
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+}
+
+.content-footer a {
+  text-decoration: none;
+  border-radius: 10px;
+  width: 250px;
+  display: inline-block;
+  text-align: center;
+  padding: 20px;
+}
+
+.content-footer-contacts a:hover {
+  background-color: #c54800;
+  color: #a3abb2;
+}
+
+.content-footer-contacts a {
+  background-color: #fc5c00;
+  color: #a3abb2;
+}
+
+.content-footer-projects a {
+  background-color: #a3abb2;
+  color: #000;
+}
+
+.content-footer-projects a:hover {
+  background-color: #858a8f;
+}

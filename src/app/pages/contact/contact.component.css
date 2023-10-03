@@ -1,0 +1,68 @@
+.content-about {
+  width: 70%;
+  margin: 10px auto;
+}
+
+.content-about-title {
+  margin: 20px 0;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #fff;
+}
+
+.content-about-title h2 {
+  color: #fff;
+}
+
+.content-about-form {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.content-about-form label {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color: #fff;
+}
+
+.content-about-form input,
+textarea {
+  padding: 10px;
+  font-size: 16px;
+  background-color: #ccc;
+}
+
+.content-about-buttons {
+  margin-top: 10px;
+}
+
+.content-about-buttons button,
+a {
+  padding: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+  font-size: 15px;
+  width: 200px;
+  display: inline-block;
+  text-align: center;
+}
+
+.content-about-buttons button {
+  background-color: #fc5c00;
+  color: #a3abb2;
+  border: none;
+}
+
+.content-about-buttons button:hover {
+  background-color: #c54800;
+  color: #a3abb2;
+}
+
+.content-about-buttons a {
+  background-color: #a3abb2;
+  color: #000;
+  text-decoration: none;
+}
+
+.content-about-buttons a:hover {
+  background-color: #858a8f;
+}
